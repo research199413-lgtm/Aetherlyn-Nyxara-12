@@ -12,7 +12,7 @@ import requests
 # =====================================================
 
 LOOP_DURATION = 300     # Seconds between runs
-INTERVAL = 100            # Number of runs
+INTERVAL = 60           # Number of runs
 
 TIMEZONE = ZoneInfo("Asia/Karachi")
 
